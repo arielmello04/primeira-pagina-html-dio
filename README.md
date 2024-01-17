@@ -1,0 +1,1 @@
+Minha página html, feita para entregar como projeto do curso de html da DIO, criada utilizando como maioria conhecimentos adquiridos durante as aulas e por conhecimentos que fui encorajado a descobrir e entender sozinho também.
